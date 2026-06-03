@@ -2,24 +2,26 @@
 
 Colección de scripts Bash desarrollados para practicar administración de sistemas Linux.
 
-## Scripts incluidos
+## Scripts
 
-* system_info.sh
-* disk_usage.sh
-* users_list.sh
-* memory_info.sh
+### system_info.sh
+Muestra información general del sistema.
+
+### disk_usage.sh
+Muestra el uso de discos.
+
+### memory_info.sh
+Muestra el estado de la memoria RAM.
+
+### users_list.sh
+Lista los usuarios configurados en el sistema.
 
 ## Tecnologías
 
-* Linux
-* Bash
-* Ubuntu
-
-## Objetivos
-
-* Aprender scripting Bash.
-* Automatizar tareas básicas de administración.
-* Practicar comandos Linux utilizados en soporte técnico.
+- Linux
+- Ubuntu
+- Bash
+- Git
 
 ## Autor
 
